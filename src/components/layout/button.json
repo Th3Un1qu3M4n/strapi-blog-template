@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_layout_buttons",
+  "info": {
+    "displayName": "button",
+    "icon": "arrow-alt-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

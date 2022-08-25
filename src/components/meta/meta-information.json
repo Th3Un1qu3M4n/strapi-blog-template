@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_meta_meta_informations",
+  "info": {
+    "displayName": "MetaInformation",
+    "icon": "book-open"
+  },
+  "options": {},
+  "attributes": {
+    "metaTitle": {
+      "type": "string"
+    },
+    "metaDescription": {
+      "type": "text"
+    }
+  }
+}

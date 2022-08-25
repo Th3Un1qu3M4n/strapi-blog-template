@@ -2,7 +2,7 @@
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
-### `use Template to crate Project`
+### `use Template to create Project`
 Use one of the command below to create a new project using this template.
 ```
 npx create-strapi-app@latest my-project --template https://github.com/Th3Un1qu3M4n/strapi-blog-template
